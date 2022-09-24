@@ -1,4 +1,5 @@
 # ep1dp22_Daniel_Raxjal
+la creación de aplicaciones básicas con POO en Python utilizando el paquete TKinter para crear la interfaz gráfica de usuario.
 
 Crear una aplicación que solicite el ingreso de 5 valores y con ellos realice lo siguiente:
 a. Calcular el promedio y mostrarlo en la GUI
