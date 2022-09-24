@@ -9,6 +9,8 @@ Valide que los valores sean distintos, de lo contrario indique que la aplicació
 c. Indicar si la suma de los valores es mayor, igual o menor que la multiplicación del primero con el último.
 
 Crear una aplicación en Python que permita ingresar 5 registros para la clase indicada, tomado en cuenta todos los atributos de las clases padre:
+
+
 • Los carnets que finalicen en 9, 8 o 7 deberán instanciar la clase Mixto.
 
 
