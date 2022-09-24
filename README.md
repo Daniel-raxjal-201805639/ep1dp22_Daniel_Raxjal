@@ -10,6 +10,10 @@ c. Indicar si la suma de los valores es mayor, igual o menor que la multiplicaci
 
 Crear una aplicación en Python que permita ingresar 5 registros para la clase indicada, tomado en cuenta todos los atributos de las clases padre:
 • Los carnets que finalicen en 9, 8 o 7 deberán instanciar la clase Mixto.
+
+
 • Los carnets que finalicen en 6, 5 o 4 deberán instanciar la clase Propietario.
+
+
 • Los carnets que finalicen en 3, 2, 1 u 0 deberán instanciar la clase Sociedad Anónima.
 
